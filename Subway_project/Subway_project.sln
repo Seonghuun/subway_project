@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Subway_project", "Subway_project\Subway_project.vcxproj", "{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Debug|x64.ActiveCfg = Debug|x64
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Debug|x64.Build.0 = Debug|x64
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Debug|x86.Build.0 = Debug|Win32
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Release|x64.ActiveCfg = Release|x64
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Release|x64.Build.0 = Release|x64
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Release|x86.ActiveCfg = Release|Win32
+		{F554B19F-FCB5-41E1-84CB-2E8E2F1749B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5372494-AD76-494A-A006-F6E107E00413}
+	EndGlobalSection
+EndGlobal
